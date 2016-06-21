@@ -1,0 +1,25 @@
+body {
+	line-height: 1.5;
+}
+
+#wrapper {
+	height: auto;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#team_img {
+	width: 730px;
+	margin-right: 35px;
+	margin-left: 35px;
+	clear: both;
+}
+
+
+.meibo {
+	height: auto;
+
+	margin-left: 0px;
+	margin-right: 10px;
+}
